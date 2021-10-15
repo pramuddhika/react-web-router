@@ -18,7 +18,7 @@ function BuyApplication(){
                   <td>Our shop will contact you withing 2 hours for get futher detai
                       
                       ls.</td>
-                  <td><button><a href = "Home">Submit</a></button></td>
+                  <td><button><a href = "/">Submit</a></button></td>
                  </tr>
             </table>
         </div>

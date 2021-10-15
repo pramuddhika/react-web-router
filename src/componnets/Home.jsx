@@ -14,17 +14,7 @@ import logo512 from './photos/logo512.png';
 function Home(){
     return(
         <div> 
-            <table>
-        <tr>
-            <td><img id = "logo" src = {logo512} width = "40%" height = "70%"/></td>
-            <td> <p id = "welcome">Welcome</p> <br/>
-            <p id = "details">
-               contact us:-<br/>
-               0765362275 <br/>
-               pramuddhika21@yahoo.com</p>
-                </td>
-        </tr>
-    </table>
+            
 
             <table id = "number_1">
                  <tr>
